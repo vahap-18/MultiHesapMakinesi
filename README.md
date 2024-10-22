@@ -1,6 +1,6 @@
 # TryExcept Formu
 
-Bu form, kullanıcı tarafından girilen iki sayı arasındaki çeşitli matematiksel işlemleri gerçekleştirmektedir. Kullanıcıya + (Toplama), - (Çıkartma), * (Çarpma) ve / (Bölme) gibi seçenekler sunulmaktadır.
+Bu form, kullanıcı tarafından girilen iki sayı arasındaki çeşitli matematiksel işlemleri gerçekleştirmektedir. Kullanıcıya + (Toplama), - (Çıkartma), * (Çarpma), / (Bölme) ve ^ (Üs Alma) gibi seçenekler sunulmaktadır.
 
 ## Arayüz
 
@@ -23,8 +23,8 @@ Formu kullanmak için:
 1.  Formu açın.
 2.  İki sayının değerlerini girin.
 3.  İşlem seçeneğini belirleyin.
-4.  **Calculate** butonuna tıklayın.
-5.  Sonuç, **Answer** metin kutusunda görüntelenecektir.
+4.  **Hesapla** butonuna tıklayın.
+5.  Sonuç, **Cevap** metin kutusunda görüntelenecektir.
 
 ## Hatalar
 
@@ -34,3 +34,13 @@ Formda herhangi bir hata oluşması durumunda:
 *   İki sayının değerleri girilmediğinde veya geçersiz olduğunda, kullanıcıya bu durumdan haberdar edilir.
 
 Bu formu kullanarak, çeşitli matematiksel işlemleri gerçekleştirebilir ve sonuçları görebilirsiniz.
+
+## Katkıda Bulunma
+
+Katkıda bulunmak isteyenler, aşağıdaki adımları takip edebilir:
+
+1. Projeyi fork edin.
+2. Yeni bir branch oluşturun (`git checkout -b feature/yenilik`).
+3. Yapmak istediğiniz değişiklikleri yapın ve commit edin (`git commit -am 'Yeni özellik ekle'`).
+4. Değişikliklerinizi push edin (`git push origin feature/yenilik`).
+5. Bir pull request oluşturun.
