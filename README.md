@@ -1,4 +1,4 @@
-# TryExcept Formu
+# Hesap Makinesi
 
 Bu form, kullanıcı tarafından girilen iki sayı arasındaki çeşitli matematiksel işlemleri gerçekleştirmektedir. Kullanıcıya + (Toplama), - (Çıkartma), * (Çarpma), / (Bölme) ve ^ (Üs Alma) gibi seçenekler sunulmaktadır.
 
